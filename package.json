@@ -18,12 +18,12 @@
     "access": "restricted"
   },
   "devDependencies": {
-    "cz-conventional-changelog": "^3.3.0",
+    "@ryansonshine/cz-conventional-changelog": "^3.3.4",
     "semantic-release": "^24.0.0"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "./node_modules/@ryansonshine/cz-conventional-changelog"
     }
   }
 }
