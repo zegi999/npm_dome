@@ -14,7 +14,8 @@
     "url": "git+https://github.com/zegi999/npm_dome.git"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public",
+    "provenance": true
   },
   "devDependencies": {
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
