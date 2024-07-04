@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zegi999/npm_dome.git"
+    "url": "git+https://github.com/zegi999/npm_dome.git"
   },
   "publishConfig": {
     "access": "restricted"
