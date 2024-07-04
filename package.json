@@ -1,10 +1,11 @@
 {
-  "name": "npm_dome",
+  "name": "@zegi/npm_dome",
   "version": "0.0.0-development",
   "description": "github atcions publish npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"tested\" && exit 0",
+    "commit": "git-cz",
     "semantic-release": "semantic-release --branches main"
   },
   "author": "",
